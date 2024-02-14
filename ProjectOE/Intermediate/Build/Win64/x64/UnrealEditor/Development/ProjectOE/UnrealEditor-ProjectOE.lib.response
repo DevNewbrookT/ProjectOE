@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ProjectOE.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\games\Desktop\ProjectOE\ProjectOE\Intermediate\Build\Win64\x64\ProjectOEEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\games\Desktop\ProjectOE\ProjectOE\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOE\ProjectOE.init.gen.cpp.obj"
+"C:\Users\games\Desktop\ProjectOE\ProjectOE\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOE\ProjectOEGameModeBase.gen.cpp.obj"
+"C:\Users\games\Desktop\ProjectOE\ProjectOE\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOE\ProjectOE.cpp.obj"
+"C:\Users\games\Desktop\ProjectOE\ProjectOE\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOE\ProjectOEGameModeBase.cpp.obj"
+"C:\Users\games\Desktop\ProjectOE\ProjectOE\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOE\Default.rc2.res"
+/OUT:"C:\Users\games\Desktop\ProjectOE\ProjectOE\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOE\UnrealEditor-ProjectOE.lib"
